@@ -2,7 +2,7 @@
  * for (initialization; condition; increment/decrement) {
  statement(s) //block of statements
  }
- *
+ *git check
  */
 public class Powers {
     public static void main (String[] args){
