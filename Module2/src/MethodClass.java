@@ -1,4 +1,10 @@
 
+//This is just to practise creating and calling methods.  As such,
+//the contents themselves are simple.
+
+
+
+
 public class MethodClass {
 
 
@@ -12,7 +18,6 @@ public class MethodClass {
 
 
     }
-
 
     public static void main (String[] args){
 
