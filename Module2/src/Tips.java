@@ -1,5 +1,9 @@
 import java.util.Scanner;
 // calculate tips with subtotal and percentage.
+
+
+//variable names are not good/clear...
+
 public class Tips {
     public static void main (String[] args){
     Scanner input = new Scanner(System.in);
