@@ -1,6 +1,4 @@
-/**
- * Created by Noelia on 04-Jul-16.
- */
+
 public class Casting {
     public static void main (String[] args){
         float f = 12.5f;
