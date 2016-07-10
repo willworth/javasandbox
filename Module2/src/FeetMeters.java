@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class FeetMeters {
     public static void main (String[] args){
         Scanner input = new Scanner(System.in);
-        System.out.println("Please enter a vaule for feet:");6
+        System.out.println("Please enter a vaule for feet:");
         double x = input.nextDouble();
         double metres = x * 0.305;
         System.out.println(x +" feet is equal to " + metres +
