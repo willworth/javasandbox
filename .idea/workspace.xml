@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d531b3c-5ed2-49a7-ac7c-810b82527c00" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module2/src/YearsFromMinutes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module1/src/InputTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module2/src/PhysicsAcceleration.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Module1/src/SumMethod.java" afterPath="$PROJECT_DIR$/Module1/src/SumMethod.java" />
     </list>
     <ignored path="javasandbox.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +26,7 @@
     <favorites_list name="javasandbox" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.33643124">
+    <splitter split-orientation="horizontal" split-proportion="0.48454157">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="SimpleCylinder.java" pinned="false" current-in-tab="false">
@@ -50,7 +52,7 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="Sumdigits.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Module2/src/Sumdigits.java">
               <provider selected="true" editor-type-id="text-editor">
@@ -61,11 +63,51 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="YearsFromMinutes.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="YearsFromMinutes.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Module2/src/YearsFromMinutes.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.8422877">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DisplayTime.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Module1/src/DisplayTime.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="InputTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Module1/src/InputTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PhysicsAcceleration.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Module2/src/PhysicsAcceleration.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.7487002">
+                  <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SumMethod.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Module1/src/SumMethod.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="14" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -115,7 +157,6 @@
         <option value="$PROJECT_DIR$/Module1/src/DisplayTime.java" />
         <option value="$PROJECT_DIR$/Module1/src/Maths.java" />
         <option value="$PROJECT_DIR$/Module1/src/ShowCurrentTime.java" />
-        <option value="$PROJECT_DIR$/Module1/src/SumMethod.java" />
         <option value="$PROJECT_DIR$/Module2/src/ComputeLoan.java" />
         <option value="$PROJECT_DIR$/Module2/src/MethodClass.java" />
         <option value="$PROJECT_DIR$/Module2/src/Celsius.java" />
@@ -128,6 +169,9 @@
         <option value="$PROJECT_DIR$/Module2/src/Tips.java" />
         <option value="$PROJECT_DIR$/Module2/src/Sumdigits.java" />
         <option value="$PROJECT_DIR$/Module2/src/YearsFromMinutes.java" />
+        <option value="$PROJECT_DIR$/Module1/src/InputTest.java" />
+        <option value="$PROJECT_DIR$/Module1/src/SumMethod.java" />
+        <option value="$PROJECT_DIR$/Module2/src/PhysicsAcceleration.java" />
       </list>
     </option>
   </component>
@@ -169,8 +213,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -232,6 +274,10 @@
               <option name="myItemId" value="javasandbox" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Module1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -245,6 +291,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,37 +302,7 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.YearsFromMinutes">
-    <configuration default="false" name="FeetMeters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="FeetMeters" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Module2" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="PoundsKilos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="PoundsKilos" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Module2" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.PhysicsAcceleration">
     <configuration default="false" name="Tips" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Tips" />
@@ -318,6 +336,36 @@
     <configuration default="false" name="YearsFromMinutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="YearsFromMinutes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Module2" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="InputTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chap2exercises" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PhysicsAcceleration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="PhysicsAcceleration" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -587,19 +635,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FeetMeters" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PoundsKilos" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Tips" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Sumdigits" />
-      <item index="4" class="java.lang.String" itemvalue="Application.YearsFromMinutes" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Tips" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Sumdigits" />
+      <item index="2" class="java.lang.String" itemvalue="Application.YearsFromMinutes" />
+      <item index="3" class="java.lang.String" itemvalue="Application.InputTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PhysicsAcceleration" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.YearsFromMinutes" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Sumdigits" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Tips" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PoundsKilos" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FeetMeters" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PhysicsAcceleration" />
+        <item index="1" class="java.lang.String" itemvalue="Application.InputTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.YearsFromMinutes" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Sumdigits" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Tips" />
       </list>
     </recent_temporary>
   </component>
@@ -695,12 +743,18 @@
       <option name="project" value="LOCAL" />
       <updated>1468175502825</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="divide and modulo with time calculations">
+      <created>1468186744549</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1468186744549</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -709,10 +763,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3452381" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3452381" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13965885" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13965885" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -751,7 +805,8 @@
     <MESSAGE value="simple converter." />
     <MESSAGE value="simple converter and tips calculator." />
     <MESSAGE value="Sun digits with control flow if else" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sun digits with control flow if else" />
+    <MESSAGE value="divide and modulo with time calculations" />
+    <option name="LAST_COMMIT_MESSAGE" value="divide and modulo with time calculations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -762,6 +817,46 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Module2/src/SimpleCylinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module2/src/FeetMeters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module2/src/Sumdigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module2/src/YearsFromMinutes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module2/src/PoundsKilos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Module2/src/Casting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.451505">
@@ -833,14 +928,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Module1/src/SumMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25755167">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Module2/src/FeetMeters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.60831887">
@@ -867,8 +954,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Module2/src/YearsFromMinutes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8422877">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/src/DisplayTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/src/SumMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module1/src/InputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module2/src/PhysicsAcceleration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7487002">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
           <folding />
         </state>
       </provider>
